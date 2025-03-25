@@ -1,0 +1,34 @@
+# Blender 4.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Plastic_black_material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/plastic_diffuse.jpg
+map_Ks C:/plastic_specular.jpg
+map_refl C:/plastic_metallic.jpg
+map_Bump -bm 1.000000 C:/plastic_normal_opengl.jpg
+
+newmtl m0LDSP_Orekh_Selekt_temn__16_mm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd D:/111/LDSP Orekh Selekt temn.jpg
+
+newmtl m2Plastmassa_chernaya
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
